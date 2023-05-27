@@ -70,7 +70,7 @@ class FormatMessage
                 'index' => 1,
                 'urlButton' => [
                     'displayText' => 'Visit our website',
-                    'url' => 'https://wa.dipsystore.com',
+                    'url' => 'https://dywhatsap.com',
                 ],
             ],
             [
